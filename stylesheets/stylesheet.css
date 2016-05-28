@@ -9,7 +9,9 @@ body {
 }
 
 /* General & 'Reset' Stuff */
-
+#pong{
+  text-align: center;
+}
 .container {
   width: 90%;
   max-width: 600px;
